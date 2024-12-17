@@ -10,7 +10,7 @@ To be associated with a progressive organization that gives me scope to apply my
 ## Academic Profile
 | QUALIFYING EXAM | INSTITUTION | YEAR OF PASSING | PERCENTAGE / CGPA |
 |-----------------|-------------|-----------------|-------------------|
-Masters of Analytics | Saint Louis University | Persuing| 
+Masters of Analytics | Saint Louis University | 2026| Persuing
 | Bachelor of Commerce in Computer Applications (BCOM) | Chaitanya Degree College | 2023 | 7.34 CGPA |
 | Diploma in Commercial and Computer Practice (DCCP) | Govt. Polytechnic for Women, Nandigama | 2021 | 85.6 % |
 | Secondary School Certificate | Apollo English Medium School | 2018 | 9.5 CGPA |
