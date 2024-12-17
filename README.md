@@ -1,7 +1,9 @@
 # Nallani Thanmai
 
 **Email:** thanmai.thanmai@slu.edu
+
 **Phone:** +1(314)-575-7717  
+
 **Address:** 2236, Apt-D, Renault Dr, Saint Louis, MO-63146, USA
 
 ## Career Objective
@@ -43,5 +45,7 @@ This study explores the cybersecurity awareness of Kyrgyz-Turkish Manas Universi
 I do hereby declare that the particulars of information and facts stated herein above are true, correct and complete to the best of my knowledge and belief.
 
 **Place:** Saint Louis
+
 **Date:** 29-09-24 
+
 **Signature:** (Thanmai Nallani)
