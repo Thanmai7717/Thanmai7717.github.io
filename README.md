@@ -1,8 +1,8 @@
 # Nallani Thanmai
 
-**Email:** thanmaichowdary9999@gmail.com  
-**Phone:** +91-9505758449  
-**Address:** D.no:5-2 Muppalla(V), Chandarlapadu(M), NTR(D).
+**Email:** thanmai.thanmai@slu.edu
+**Phone:** +1(314)-575-7717  
+**Address:** 2236, Apt-D, Renault Dr, Saint Louis, MO-63146, USA
 
 ## Career Objective
 To be associated with a progressive organization that gives me scope to apply my knowledge, skills and involve myself as part of the team that dynamically works towards the growth of the organization.
@@ -10,6 +10,7 @@ To be associated with a progressive organization that gives me scope to apply my
 ## Academic Profile
 | QUALIFYING EXAM | INSTITUTION | YEAR OF PASSING | PERCENTAGE / CGPA |
 |-----------------|-------------|-----------------|-------------------|
+Masters of Analytics | Saint louis University | Persuing| 
 | Bachelor of Commerce in Computer Applications (BCOM) | Chaitanya Degree College | 2023 | 7.34 CGPA |
 | Diploma in Commercial and Computer Practice (DCCP) | Govt. Polytechnic for Women, Nandigama | 2021 | 85.6 % |
 | Secondary School Certificate | Apollo English Medium School | 2018 | 9.5 CGPA |
@@ -41,6 +42,6 @@ This study explores the cybersecurity awareness of Kyrgyz-Turkish Manas Universi
 ## Declaration
 I do hereby declare that the particulars of information and facts stated herein above are true, correct and complete to the best of my knowledge and belief.
 
-**Place:** Muppalla  
-**Date:** 29-07-21  
-**Signature:** (N. Thanmai)
+**Place:** Saint Louis
+**Date:** 29-09-24 
+**Signature:** (Thanmai Nallani)
